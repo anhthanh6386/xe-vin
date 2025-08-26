@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	PHPSESSID	o4psa0fsdsim3eht0iorg9p823
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	SameSite	Lax
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	traffic_source	Direct
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	csrfToken	syUxL2URxUUInyruhQ3jdDUxNDQ4OTU1NWJlMDY2OGVjYjcyNWE2NTc0NmQ1MmY5YzY0NTIxZTI%3D
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	products_viewed	%5B22%2C23%2C24%2C25%2C21%2C20%2C18%2C19%2C16%2C15%5D
+vinfastdungthobinhxuyen.vn	TRUE	/	FALSE	1999999999	articles_viewed	%5B55%2C54%2C53%2C21%2C20%2C19%2C18%2C16%2C52%2C51%2C48%2C43%2C39%2C37%2C33%2C28%2C27%2C26%5D
+.vinfast.vn	TRUE	/	FALSE	1999999999	__cf_bm	F_GeL2smc3frXlWvYACpWhfS1y0YpM7Gp6M18UacXyQ-1756164215-1.0.1.1-lcXgqU56Tv0KWPZI4w4SxebYPpgtvFKwP2i19Ni2P.7J1FK_piFYWY9.pRztwrT2qTqT2nQxdMOW23ZmYNDcdrRSau_2aEc25FBo49yB8rA
+.vinfast.vn	TRUE	/	FALSE	1999999999	_cfuvid	05wYs_h_AzPkK5LGS2pU8iPRfFfD27nthEV7CPT.jNc-1756164215926-0.0.1.1-604800000
+cmu-cdn.vinfast.vn	TRUE	/	FALSE	1999999999	SameSite	None
+
